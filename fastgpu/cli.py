@@ -1,5 +1,4 @@
 from fastcore.all import *
-from fastscript.core import call_parse,Param
 from .core import *
 
 @call_parse
